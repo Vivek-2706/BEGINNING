@@ -1,3 +1,5 @@
 print("lets start")
 print("Made by me")
 print(" its my day ")
+print(" its my day ")
+print(" its my day ")
